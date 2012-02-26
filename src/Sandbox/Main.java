@@ -1,4 +1,4 @@
-package mygame;
+package Sandbox;
 
 import com.jme3.app.SimpleApplication;
 import com.jme3.material.Material;
@@ -29,6 +29,7 @@ public class Main extends SimpleApplication {
         geom.setMaterial(mat);
 
         rootNode.attachChild(geom);
+        System.out.println("Should be working");
     }
 
     @Override
