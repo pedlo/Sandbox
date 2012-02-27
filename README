@@ -1,1 +1,14 @@
 This Sandobox project is (how its name states it) a test ground for some pieces of code.
+
+LEGAL
+Right now id don't care much of this code, however a few pieces come from
+"foreign" projects:
+
+Skybox textures:
+This is the work of Emil Persson, aka Humus.
+http://www.humus.name
+humus@comhem.se
+
+
+Notes:
+ for file in *.jpg; do convert $file -resize 25% ${file/.jpg}512.jpg; done
