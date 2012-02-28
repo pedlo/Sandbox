@@ -1,7 +1,8 @@
-This Sandobox project is (how its name states it) a test ground for some pieces of code.
+This Sandobox project is (how its name states it) a test ground for some pieces
+of jMonkeyEngine code.
 
 LEGAL
-Right now id don't care much of this code, however a few pieces come from
+Right now I don't care much of this code, however a few pieces come from
 "foreign" projects:
 
 Skybox textures:
